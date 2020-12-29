@@ -9,7 +9,7 @@ package-lock.json
 cfg.php
 .*.php
 .DS_Store
-
+wp-content/*
 !wp-content/mu-plugins/
 !wp-content/plugins/
 !wp-content/themes/
