@@ -1,0 +1,15 @@
+wp-content/themes/wp-314/node_modules
+wp-content/backup-dup-pro
+wp-snapshots
+wp-config.php
+wp-includes
+wp-admin
+node_modules
+package-lock.json
+cfg.php
+.*.php
+.DS_Store
+wp-content/*
+!wp-content/mu-plugins/
+!wp-content/plugins/
+!wp-content/themes/
