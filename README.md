@@ -1,6 +1,6 @@
-# WordPress Theme
+# WordPress sample application
 
-Application with semi-automatic WordPress installation on Apache2 engine and sample project theme.
+Application with WordPress installation on Apache2 engine and sample project theme.
 
 
 ### Installation and running
@@ -14,6 +14,7 @@ CLONE & INSTALL REPO
 > cd project
 
 > php install.php / install-mac.php (WIN/MAC)
+
 
 ```
 
